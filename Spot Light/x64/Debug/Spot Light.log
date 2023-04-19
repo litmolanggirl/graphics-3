@@ -1,0 +1,6 @@
+﻿  glut_backend.cpp
+  lighting_technique.cpp
+C:\Users\Оксана\Desktop\с++\Spot Light\lighting_technique.cpp(361,58): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  texture.cpp
+  Создание кода...
+  Spot Light.vcxproj -> C:\Users\Оксана\Desktop\с++\Spot Light\x64\Debug\Spot Light.exe

@@ -1,0 +1,4 @@
+C:\Users\Оксана\Desktop\с++\Ambient Lighting\x64\Debug\Ambient Lighting.vcxproj.CopyComplete
+C:\Users\Оксана\Desktop\с++\Ambient Lighting\x64\Debug\Ambient Lighting.exe
+C:\Users\Оксана\Desktop\с++\Ambient Lighting\x64\Debug\freeglutd.dll
+C:\Users\Оксана\Desktop\с++\Ambient Lighting\x64\Debug\glew32d.dll

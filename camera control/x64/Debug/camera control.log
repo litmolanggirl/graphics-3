@@ -1,0 +1,22 @@
+﻿  camera control.cpp
+C:\Users\Оксана\Desktop\с++\camera control\camera control.cpp(110,49): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Оксана\Desktop\с++\camera control\camera control.cpp(143,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  camera.cpp
+C:\Users\Оксана\Desktop\с++\camera control\camera.cpp(46,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera control\camera.cpp(50,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera control\camera.cpp(57,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera control\camera.cpp(61,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera control\camera.cpp(65,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  math_3d.cpp
+C:\Users\Оксана\Desktop\с++\camera control\math_3d.cpp(25,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera control\math_3d.cpp(26,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera control\math_3d.cpp(56,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera control\math_3d.cpp(56,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera control\math_3d.cpp(57,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera control\math_3d.cpp(57,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera control\math_3d.cpp(58,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera control\math_3d.cpp(58,19): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+C:\Users\Оксана\Desktop\с++\camera control\math_3d.cpp(106,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  pipeline.cpp
+  Создание кода...
+  camera control.vcxproj -> C:\Users\Оксана\Desktop\с++\camera control\x64\Debug\camera control.exe

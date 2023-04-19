@@ -1,0 +1,3 @@
+﻿  Ambient Lighting.cpp
+C:\Users\Оксана\Desktop\с++\Ambient Lighting\Ambient Lighting.cpp(204,1): warning C4305: аргумент: усечение из "double" в "float"
+  Ambient Lighting.vcxproj -> C:\Users\Оксана\Desktop\с++\Ambient Lighting\x64\Debug\Ambient Lighting.exe

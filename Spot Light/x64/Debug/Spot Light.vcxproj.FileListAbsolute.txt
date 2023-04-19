@@ -1,0 +1,4 @@
+C:\Users\Оксана\Desktop\с++\Spot Light\x64\Debug\Spot Light.vcxproj.CopyComplete
+C:\Users\Оксана\Desktop\с++\Spot Light\x64\Debug\Spot Light.exe
+C:\Users\Оксана\Desktop\с++\Spot Light\x64\Debug\freeglutd.dll
+C:\Users\Оксана\Desktop\с++\Spot Light\x64\Debug\glew32d.dll

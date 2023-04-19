@@ -1,0 +1,4 @@
+C:\Users\Оксана\Desktop\с++\Point Light\x64\Debug\Point Light.vcxproj.CopyComplete
+C:\Users\Оксана\Desktop\с++\Point Light\x64\Debug\Point Light.exe
+C:\Users\Оксана\Desktop\с++\Point Light\x64\Debug\freeglutd.dll
+C:\Users\Оксана\Desktop\с++\Point Light\x64\Debug\glew32d.dll

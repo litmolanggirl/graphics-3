@@ -1,0 +1,4 @@
+C:\Users\Оксана\Desktop\с++\camera control\x64\Debug\camera control.exe
+C:\Users\Оксана\Desktop\с++\camera control\x64\Debug\camera control.vcxproj.CopyComplete
+C:\Users\Оксана\Desktop\с++\camera control\x64\Debug\freeglutd.dll
+C:\Users\Оксана\Desktop\с++\camera control\x64\Debug\glew32d.dll
